@@ -1,0 +1,7 @@
+What happens when you intialize a repository? Why do you need to do it?
+
+An empty repository is created.  This sets stuff up for your first commit.
+
+How is the staging area different from the working directory and the repository?  What value do you think it offsets?
+
+The staging area is an intermediate transition zone that allows the user to isolate and group changes from the working directory prior to committing them.
